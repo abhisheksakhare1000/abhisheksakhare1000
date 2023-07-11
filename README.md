@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Sakhare</h1>
 <h3 align="center">A Machine learning enthusiastic from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+- 🌱 I’m currently learning **Data science**
+
+- 💬 Ask me about **Flask, AI-ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
